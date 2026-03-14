@@ -1,5 +1,5 @@
 
-# SQL Murder Mystery
+# SQL Murder Mysteryy
 
 An interactive, gamified platform to learn MySQL through the thrill of solving crime mysteries.
 
